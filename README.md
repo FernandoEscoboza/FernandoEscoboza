@@ -90,7 +90,7 @@ Computer science final year student. I currently work as a Systems Administrator
 
 [![Gmail Badge](https://img.shields.io/badge/fernandoescoboza21@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernandoescoboza21@gmail.com)](mailto:fernandoescoboza21@gmail.com) 
 
-[![Instagram Badge](https://img.shields.io/badge/-fernando_escoboza?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/fernando_escoboza/)](https://www.instagram.com/fernando_escoboza/)
+[![Instagram Badge](https://img.shields.io/badge/-Fernando%20Escoboza-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/fernando_escoboza/)](https://www.instagram.com/fernando_escoboza/)
 
 <!-- 
   <a href="https://in.linkedin.com/in/TheDudeThatCode">
