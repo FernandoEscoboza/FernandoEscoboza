@@ -71,10 +71,10 @@ Computer science final year student. I currently work as a Systems Administrator
 
 
 <a href="https://github.com/FernandoEscoboza">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoEscoboza&theme=radical&hide=glsl,python" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoEscoboza&theme=radical&hide=python" />
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=FernandoEscoboza&&show_icons=true&theme=radical&line_height=27&v=5" alt="Fernando Escoboza's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=FernandoEscoboza&&show_icons=true&theme=radical&line_height=27&v=8" alt="Fernando Escoboza's GitHub Stats" />
 
 
 <a href="https://github.com/FernandoEscoboza/sistema_facturacion.git">
@@ -83,7 +83,7 @@ Computer science final year student. I currently work as a Systems Administrator
 </a>    
 
 
-##  Contact Me :speech_balloon:
+##  Contact Me :
 [![Twitter Badge](https://img.shields.io/badge/-@Escoboza0417-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Escoboza0417)](https://twitter.com/Escoboza0417) 
 [![Linkedin Badge](https://img.shields.io/badge/-fernando-escoboza-3b1171195-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-escoboza-3b1171195/)](https://www.linkedin.com/in/fernando-escoboza-3b1171195/) 
 [![Gmail Badge](https://img.shields.io/badge/fernandoescoboza21@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernandoescoboza21@gmail.com)](mailto:fernandoescoboza21@gmail.com) 
