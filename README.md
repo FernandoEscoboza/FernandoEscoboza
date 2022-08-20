@@ -86,7 +86,7 @@ Computer science final year student. I currently work as a Systems Administrator
 ##  Contact Me :
 [![Twitter Badge](https://img.shields.io/badge/-@Escoboza0417-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Escoboza0417)](https://twitter.com/Escoboza0417) 
 
-[![Linkedin Badge](https://img.shields.io/badge/-fernando-escoboza-3b1171195-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-escoboza-3b1171195/)](https://www.linkedin.com/in/fernando-escoboza-3b1171195/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Fernando%20Escoboza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-escoboza-3b1171195/)](https://www.linkedin.com/in/fernando-escoboza-3b1171195/) 
 
 [![Gmail Badge](https://img.shields.io/badge/fernandoescoboza21@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernandoescoboza21@gmail.com)](mailto:fernandoescoboza21@gmail.com) 
 
