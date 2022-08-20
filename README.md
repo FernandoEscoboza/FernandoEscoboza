@@ -1,9 +1,9 @@
 ### Hi there 👋
 
+https://fernandoescoboza.github.io/Curriculum-Vitae-Fernando-Escoboza-/
 <!--
 **FernandoEscoboza/FernandoEscoboza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-https://fernandoescoboza.github.io/Curriculum-Vitae-Fernando-Escoboza-/
 
 Here are some ideas to get you started:
 
