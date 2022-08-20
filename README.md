@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 # <a href="https://www.linkedin.com/in/fernando-escoboza-3b1171195">Fernando Escoboza</a> :smiley:
  
- <a href="https://twitter.com/Escoboza0417">
+<!--  <a href="https://twitter.com/Escoboza0417">
   <img align="left" alt="Ashwani's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/fernando-escoboza-3b1171195">
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </a>
 <a href="https://instagram.com/fernando_escoboza">
   <img align="left" alt="Ashwani's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+</a> -->
 
 <br/>
 <br/>
