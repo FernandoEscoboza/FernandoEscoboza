@@ -104,7 +104,7 @@ Computer science final year student. I currently work as a Systems Administrator
  -->
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ashwanisng/count.svg" />
+  <img src="https://profile-counter.glitch.me/FernandoEscoboza/count.svg" />
 </p>
 
 
