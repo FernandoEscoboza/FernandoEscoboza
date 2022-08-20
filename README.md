@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 </a> -->
 
 <br/>
-<br/>
 
 <!-- Contributer at Student Code-in | Contributer at PClub Summer Of Code | Data Science | Machine Learning | Deep Learning | Android Development | Java | Python | Competitive Programming
  -->
