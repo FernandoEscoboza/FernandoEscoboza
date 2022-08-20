@@ -37,10 +37,10 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-Contributer at Student Code-in | Contributer at PClub Summer Of Code | Data Science | Machine Learning | Deep Learning | Android Development | Java | Python | Competitive Programming
-
-## About :sunglasses:
-B.tech 3rd year Computer Science student. Currently working as a Contributor in Open Source organization Student Code-in and PClub Summer Of Code. Passionate about Data Science, Machine Learning and open source. Also, have some experience in Android Development and Data Analysis.
+<!-- Contributer at Student Code-in | Contributer at PClub Summer Of Code | Data Science | Machine Learning | Deep Learning | Android Development | Java | Python | Competitive Programming
+ -->
+## About me:
+Computer science final year student. I currently work as a Systems Administrator and Data Analyst at Edenorte Dominicana S.A. Passionate about data science and software development that make life easier for others.
 
 ## Technologies :
 - Data Analysis with **Power BI and Pentahoo Data Integration**.
@@ -65,17 +65,13 @@ B.tech 3rd year Computer Science student. Currently working as a Contributor in 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code> -->
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> -->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> -->
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code> -->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
 <a href="https://github.com/FernandoEscoboza">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwanisng&theme=radical&hide=glsl,python" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoEscoboza&theme=radical&hide=glsl,python" />
 </a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=FernandoEscoboza&&show_icons=true&theme=radical&line_height=27&v=5" alt="Fernando Escoboza's GitHub Stats" />
@@ -88,7 +84,10 @@ B.tech 3rd year Computer Science student. Currently working as a Contributor in 
 
 
 ##  Contact Me :speech_balloon:
-[![Twitter Badge](https://img.shields.io/badge/-@ashwanisng-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ashwanisng)](https://twitter.com/ashwanisng) [![Linkedin Badge](https://img.shields.io/badge/-ashwanisng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashwanisng/)](https://www.linkedin.com/in/ashwanisng/) [![Gmail Badge](https://img.shields.io/badge/-ashwanicena5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashwanicena5@gmail.com)](mailto:ashwanicena5@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@ashwanisng-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/ashwanisng/)](https://www.instagram.com/ashwanisng/)
+[![Twitter Badge](https://img.shields.io/badge/-@Escoboza0417-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Escoboza0417)](https://twitter.com/Escoboza0417) 
+[![Linkedin Badge](https://img.shields.io/badge/-fernando-escoboza-3b1171195-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-escoboza-3b1171195/)](https://www.linkedin.com/in/fernando-escoboza-3b1171195/) 
+[![Gmail Badge](https://img.shields.io/badge/fernandoescoboza21@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernandoescoboza21@gmail.com)](mailto:fernandoescoboza21@gmail.com) 
+[![Instagram Badge](https://img.shields.io/badge/fernando_escoboza?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/fernando_escoboza/)](https://www.instagram.com/fernando_escoboza/)
 
 <p align="center"> 
   Visitor count<br>
