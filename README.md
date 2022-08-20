@@ -71,7 +71,7 @@ Computer science final year student. I currently work as a Systems Administrator
 
 
 <a href="https://github.com/FernandoEscoboza">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoEscoboza&theme=radical&hide=python" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoEscoboza&theme=radical&hide=handlebars" />
 </a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=FernandoEscoboza&&show_icons=true&theme=radical&line_height=27&v=8" alt="Fernando Escoboza's GitHub Stats" />
@@ -89,6 +89,19 @@ Computer science final year student. I currently work as a Systems Administrator
 [![Gmail Badge](https://img.shields.io/badge/fernandoescoboza21@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernandoescoboza21@gmail.com)](mailto:fernandoescoboza21@gmail.com) 
 [![Instagram Badge](https://img.shields.io/badge/fernando_escoboza?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/fernando_escoboza/)](https://www.instagram.com/fernando_escoboza/)
 
+##  Contact Me :speech_balloon:
+[![Twitter Badge](https://img.shields.io/badge/-@ashwanisng-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ashwanisng)](https://twitter.com/ashwanisng) [![Linkedin Badge](https://img.shields.io/badge/-ashwanisng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashwanisng/)](https://www.linkedin.com/in/ashwanisng/) [![Gmail Badge](https://img.shields.io/badge/-ashwanicena5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashwanicena5@gmail.com)](mailto:ashwanicena5@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@ashwanisng-e4405f
+
+<!-- 
+  <a href="https://in.linkedin.com/in/TheDudeThatCode">
+    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+
+  <a href="https://www.instagram.com/thedudethatcode/">
+    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+  </a>
+
+ -->
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ashwanisng/count.svg" />
