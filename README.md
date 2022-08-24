@@ -76,9 +76,9 @@ Computer science final year student. I currently work as a Systems Administrator
 <img src="https://github-readme-stats.vercel.app/api?username=FernandoEscoboza&&show_icons=true&theme=radical&line_height=27&v=8" alt="Fernando Escoboza's GitHub Stats" />
 
 
-<a href="https://github.com/FernandoEscoboza/sistema_facturacion.git">
+<a href="https://github.com/FernandoEscoboza/chatbot_telegram.git">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoEscoboza&repo=sistema_facturacion&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoEscoboza&repo=chatbot_telegram&theme=radical" />
 </a>    
 
 
