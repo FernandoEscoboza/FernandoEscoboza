@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <!-- Contributer at Student Code-in | Contributer at PClub Summer Of Code | Data Science | Machine Learning | Deep Learning | Android Development | Java | Python | Competitive Programming
  -->
 ## About me:
-Computer science final year student. I currently work as a Systems Administrator and Data Analyst at Edenorte Dominicana S.A. Passionate about data science and software development that make life easier for others.
+Professional Technician in Computer Science from INFOTEP, last year student of Computer Systems Engineering. I am currently working as a Systems Administrator and Data Analyst at Edenorte Dominicana S.A. Passionate about Big Data and developing software that makes life easier for others.
 
 ## Technologies :
 - Data Analysis with **Power BI and Pentahoo Data Integration**.
