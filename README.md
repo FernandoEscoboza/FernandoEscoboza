@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 Professional Technician in Computer Science from INFOTEP, last year student of Computer Systems Engineering. I am currently working as a Systems Administrator and Data Analyst at Edenorte Dominicana S.A. Passionate about Big Data and developing software that makes life easier for others.
 
 ## Technologies :
-- Data Analysis with **Power BI and Pentahoo Data Integration**.
+- Data analyst with **Power BI**.
 - Python.
 - SQL Server y MySQL
 - HTML y Css
