@@ -44,10 +44,11 @@ Professional Technician in Computer Science from INFOTEP, last year student of C
 ## Technologies :
 - Data Analysis with **Power BI and Pentahoo Data Integration**.
 - Python.
-- SQL y MySQL
+- SQL Server y MySQL
 - HTML y Css
 - PHP
 - JavaScript
+- Node Js
 - Angular
 
 
