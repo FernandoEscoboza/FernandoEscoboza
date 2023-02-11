@@ -44,7 +44,7 @@ Professional Technician in Computer Science from INFOTEP, last year student of C
 ## Technologies :
 - Data analyst with **Power BI**.
 - Python.
-- SQL Server y MySQL
+- SQL Server, MySQL y Oracle DB
 - HTML y Css
 - PHP
 - JavaScript
